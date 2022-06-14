@@ -7,4 +7,4 @@ You have 6 lives in the beginning and every wrong letter guessed, you lose a lif
 Suppose, the word is dhyey.
 At the start of the game word is like ----- .
 Once u start guessing letter gets filled: --y-y .
-And if guess it wrong, you lose a life
+And if you guess it wrong, you lose a life
